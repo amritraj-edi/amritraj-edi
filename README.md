@@ -13,11 +13,14 @@ My experience includes healthcare enrollment implementations, EDI mapping and tr
 
 ## Technical Portfolio
 
-This profile will showcase selected technical demonstrations and learning projects related to healthcare EDI and integration.
+- **[X12 270/271 — Mirth Connect](https://github.com/amritraj-edi/edi-270-271-mirth-connect)**  
+  Eligibility inquiry and response processing, with CSV and XML transformations.
 
-- **EDI 270/271 with Mirth Connect** — Eligibility inquiry and response parsing and transformation.
-- **EDI 278 with Mirth Connect** — Service-review transaction transformation to XML.
-- **834 Enrollment Analyzer** — A browser-based utility for exploring and analyzing healthcare enrollment data.
+- **[X12 278 — Mirth Connect](https://github.com/amritraj-edi/edi-278-mirth-connect)**  
+  Healthcare service-review transaction parsing and XML transformation.
+
+- **[834 Enrollment Analyzer](https://github.com/amritraj-edi/834-enrollment-analyzer)**  
+  Browser-based enrollment analysis with member summaries, segment inspection, and CSV/JSON/XML exports.
 
 *Project repositories and documentation are being organized. Each project will describe its purpose, workflow, sample inputs and outputs, and known limitations.*
 
