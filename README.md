@@ -18,6 +18,14 @@ A browser-based tool for inspecting X12 834 enrollment data, exploring member an
 
 **[🚀 Launch Live Demo](https://amritraj-edi.github.io/834-enrollment-analyzer/)** · **[View Source Code & Documentation](https://github.com/amritraj-edi/834-enrollment-analyzer)**
 
+### 🔍 Healthcare Enrollment Reconciliation Tool
+**🚀 Live Demo:** [Open Healthcare Enrollment Reconciliation](https://healthcare-enrollment-reconciliation.streamlit.app/)
+
+A web-based tool designed to compare healthcare enrollment data received from a vendor or client against data exported from a Benefits Administration platform.
+- Compares enrollment records across two files to help identify discrepancies.
+- Supports healthcare benefits data reconciliation and implementation validation workflows.
+- Designed to support enrollment audits and reduce manual comparison effort.
+
 ### 🔄 Healthcare EDI Integration Projects
 
 - **[EDI 270/271 — Mirth Connect](https://github.com/amritraj-edi/edi-270-271-mirth-connect)**  
@@ -35,4 +43,3 @@ Healthcare technology | EDI integration | Benefits administration | Project deli
 ## Connect
 
 - **GitHub:** [amritraj-edi](https://github.com/amritraj-edi)
-
